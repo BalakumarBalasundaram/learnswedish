@@ -1,2 +1,3 @@
 # learnswedish
-s
+Han är en utmärkt lärare 
+
