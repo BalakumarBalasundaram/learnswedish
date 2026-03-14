@@ -1,0 +1,2 @@
+# Adjektiv: neutrum/plural
+

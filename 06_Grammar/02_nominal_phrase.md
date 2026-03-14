@@ -45,7 +45,7 @@ Use EACH noun below with the master pattern.
 5. kopp -> en kopp -> en fin kopp -> koppen -> den fina koppen -> koppar -> fina koppar -> kopparna -> de fina kopparna
 6. tallrik -> en tallrik -> en fin tallrik -> tallriken -> den fina tallriken -> tallrikar -> fina tallrikar -> tallrikarna -> de fina tallrikarna
 7. sked 
-8. gaffel -> 
+8. gaffel -> en gaffel -> en vass gaffel -> gaffeln -> den vassa gaffeln -> gafflar -> vassa gafflar -> gafflarna -> de vassa gafflarna
 9. kniv -> en kniv -> en vass kniv -> kniven -> den vassa kniven -> knivar -> vassa knivar -> knivarna -> de vassa knivarna
 10. telefon -> en telefon -> en mobiltelefon -> telefonen -> den mobiltelefonen -> telefoner -> mobiltelefoner -> telefonerna -> de mobiltelefonerna
 11. lampa

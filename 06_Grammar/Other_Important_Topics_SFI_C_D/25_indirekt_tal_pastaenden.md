@@ -1,0 +1,2 @@
+# Indirekt tal (påståenden)
+

@@ -1,0 +1,2 @@
+# Pluskvamperfekt (hade + supinum)
+

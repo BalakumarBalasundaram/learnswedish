@@ -1,0 +1,2 @@
+# Jämförelser: större, störst
+
