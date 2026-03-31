@@ -1,2 +1,0 @@
-# Pronomen: objektsformer
-
