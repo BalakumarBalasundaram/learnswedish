@@ -1,3 +1,17 @@
+# Combination Table — 15 Sentence Patterns
+
+Legend used across every file in [Sentence_Patterns/](Sentence_Patterns/): `■` huvudsats (main) · `▷` bisats (subordinate) · `◆` relativsats (relative) · `✦` att-sats (that-clause) · `▣` passiv bisats (passive)
+
+```
+CLAUSE-COUNT LADDER  (simple → complex)
+
+ 3 clauses  │ 04
+ 4 clauses  │ 02 03 05 06 07 08 10 11 12 13 14
+ 5 clauses  │ 09 15
+ 6 clauses  │ 01
+            └───────────────────────────────────▶ growing complexity
+```
+
 No	Pattern (Svenska sats)	Structure meaning	Example idea
 1	Huvudsats + bisats + bisats + bisats + att-sats + passiv bisats	multi-layer reasoning	your sentence
 2	Huvudsats + bisats (om) + huvudsats + bisats (eftersom)	condition + explanation	if… then… because…

@@ -3,6 +3,24 @@
 
 ## Introduction: The Master Pattern
 
+> 🧠 **Mental model — the 8-floor noun elevator:** every noun rides the same elevator, always in the same order, ground floor to top.
+>
+> ```
+>  8 │ de + adj + plural-definite   (de stora böckerna)
+>  7 │ plural definite              (böckerna)
+>  6 │ adj + plural indefinite      (stora böcker)
+>  5 │ plural indefinite            (böcker)
+>  4 │ den/det + adj + definite     (den stora boken)
+>  3 │ definite                     (boken)
+>  2 │ en/ett + adjective           (en stor bok)
+>  1 │ en/ett indefinite            (en bok)
+>    └───────────────────────────▶ same noun, 8 forms, one fixed order
+> ```
+
+## 📜 Background — why definiteness is marked *twice* ("double definiteness")
+
+Rows 4 and 8 of the elevator (**den stora boken**, **de stora böckerna**) look redundant at first — why mark "the" both with a separate word (`den`/`de`) *and* the `-en`/`-na` suffix? This is a real historical layering, not a mistake: the suffix (see [04_bestämningsord.md](04_bestämningsord.md)) fossilized first from an Old Norse demonstrative. Later, once an adjective was added in front of the noun, spoken Swedish needed a *second* definiteness marker positioned before the adjective, so speakers recruited another demonstrative (`den/det/de`) to do the job — otherwise the adjective would sit outside the "definite bubble" and sound unmarked. Norwegian and (spoken) Danish show the same **double definiteness** pattern; it's a shared North Germanic innovation that written Danish, German, and English never fully developed.
+
 This exercise trains the **core Swedish nominal phrase system**.
 For every noun, practice the following transformation path:
 

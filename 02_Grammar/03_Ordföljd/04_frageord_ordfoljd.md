@@ -1,5 +1,11 @@
 # Frågeord + ordföljd
 
+> 🧠 **Mental model — front-seat guest:** a frågeord (question word) simply grabs seat #1, bumping the verb to seat #2 right behind it: [frågeord][verb][subjekt]… — the same seat-2 rule as huvudsats, just with a question word sitting up front.
+
+## 📜 Background — question words are old "seat 1" specialists
+
+This is the same V2 mechanism as [01_huvudsats.md](01_huvudsats.md) and [03_inversion_i_fragor.md](03_inversion_i_fragor.md) — a frågeord is simply the most common thing that ever occupies seat 1. Cross-linguistically, question words (who/what/where/when/why/how) are some of the oldest, most stable words in any language family, because asking questions is such a basic human communicative need. Swedish's `vad/vem/var/när/varför/hur` are directly cognate with English *what/who/where/when/why/how* — both branches inherited the same Proto-Germanic question-word set, they just built different word-order rules around where those words are allowed to sit.
+
 Detta kapitel visar hur du bygger frågor med **frågeord** som `vad`, `vem`, `var`, `när`, `varför`, `hur`, `vilken`, `vilket`, `vilka`.
 
 ## 1) Grundregel för ordföljd i frågor

@@ -1,5 +1,11 @@
 # Adjektiv: neutrum/plural
 
+> 🧠 **Mental model — the chameleon:** an adjective copies the noun's "outfit". Say the noun's ending out loud and the adjective mimics it: en-word → no ending (stor), ett-word → +t (stort), plural/definite → +a (stora). No noun ending change, no adjective change.
+
+## 📜 Background — a relic of Proto-Indo-European "agreement"
+
+Thousands of years ago, Proto-Indo-European adjectives had to **agree** with their noun in gender, number, and case — essentially copying the noun's grammatical "tags" onto themselves. Latin, Russian, and German still do this heavily today. English lost adjective agreement entirely ("big" never changes, no matter the noun). Swedish sits in between: it collapsed the old masculine/feminine split into one **common gender**, keeping only a 2-way en/ett (common/neuter) agreement plus a plural/definite form — a simplified survivor of a system that used to be far more complex.
+
 Det här kapitlet hjälper dig att / This chapter helps you:
 - sortera adjektiv i tydliga kategorier / group adjectives into clear categories (size, color, etc.)
 - använda rätt form: `stor`, `stort`, `stora` / use the correct form: `stor`, `stort`, `stora`

@@ -5,6 +5,8 @@ Here is your Markdown learning file for skriva — structured so you can reuse i
 
 # 📘 Swedish Verb System: SKRIVA (to write)
 
+> 🧠 **Mental model — home base + satellite meanings:** treat every verb like "skriva" as a home base, with particles as direction arrows docking satellite meanings onto it. Instead of memorizing each particle-verb separately, always ask "where does the core meaning go?" — upp (becomes visible), ut (goes out), in (goes into), ner (gets stored/fixed) — and the meaning derives itself.
+
 ---
 
 ## 🧭 1. Core Meaning

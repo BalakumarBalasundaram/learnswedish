@@ -1,5 +1,7 @@
 # Grammar Exercises with Vocabulary (Summary Points)
 
+> 🧠 **Mental model — walk the branch top-down:** treat every vocabulary domain as one mind-map branch — Domain → Situation → Word → Forms → Example sentence. Always walk it in that order for a new word, so grammar and vocabulary are learned together instead of as separate tasks.
+
 | Preference | Applied in this file |
 |---|---|
 | Structured tables | All sections use tables |

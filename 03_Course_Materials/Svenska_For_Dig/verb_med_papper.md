@@ -2,6 +2,9 @@ verb Ämne
 : Svenska för dig
 
 # verb med papper
+
+> 🧠 **Mental model — act out the motion:** group these verbs by the physical gesture they mimic — lyft/lägg ner (vertical), vänd/snurra/rulla (rotation), vik/rulla ihop (compacting), riv/skrynkla (destructive), slät ut/blås (restoring/clearing). Say the verb while doing the gesture with your hands — the motion becomes the memory hook.
+
 - exempel: Lyft, Lägg ner, Vänd, Snurra, Rulla ihop, Rulla ut, Vik, Skrynkla, slät ut, Riv, Blås.
 - exempel meningar:
 1. Lyft papperet försiktigt så att det inte går sönder. -> Lift the paper carefully so it doesn't tear.

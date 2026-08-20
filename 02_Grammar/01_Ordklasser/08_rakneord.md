@@ -1,2 +1,0 @@
-# Räkneord: grundtal/ordningstal
-

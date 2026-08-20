@@ -1,6 +1,12 @@
 # 08 – Time + description + thought
 **Pattern:** Huvudsats + bisats (när) + relativsats + att-sats
 
+```
+■ HUVUDSATS ──▶ ▷ BISATS (när) ──▶ ◆ RELATIVSATS ──▶ ✦ ATT-SATS
+```
+
+🧠 **Remember it as "when…which…that":** moment, description, and feeling chained together.
+
 > **Jag blev glad** *när jag fick tillbaka provet* *som jag hade övat mycket på* **och kände** *att det hade lönat sig*.
 > *(I was happy when I got the test back that I had practiced a lot for and felt that it had paid off.)*
 

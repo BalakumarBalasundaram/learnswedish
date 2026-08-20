@@ -3,6 +3,24 @@
 This system turns every new word into a complete learning unit.
 Work through each section in order for one word at a time.
 
+```
+LAYER STACK (bottom → top = simple → applied)
+
+ 11 │ Practice ................. easy → medium → advanced drills
+ 10 │ Real-Life Context ........ situation · time · register
+  9 │ Level Progression ........ SFI C → SFI D → SVA 1 → 2 → 3
+  8 │ Text Types ............... berättande · beskrivande · argumenterande
+  7 │ Additional Grammar ....... negation · inversion · relativsatser
+  6 │ Verb System .............. tempus · passiv · reflexiv · partikelverb
+  5 │ Grammar Elements ......... reference · demonstratives · time · particles
+  4 │ Sentence Patterns ........ huvudsats/bisats combinations
+  3 │ Multilingual Table ....... Svenska 🇸🇪 · English 🇬🇧 · Tamil 🇮🇳
+  2 │ Related Word Network ..... ~20 connected words
+  1 │ Word Identity ............ class · inflection · irregular forms
+    └──────────────────────────────────────────────────────────────▶
+                              ONE WORD
+```
+
 ---
 
 ## 1. Word Identity

@@ -1,5 +1,11 @@
 # Learn particip in svenska
 
+> 🧠 **Mental model — live camera vs. finished stamp:** presens particip (-ande/-ende) is a *live camera* catching an action mid-motion, like "-ing" ("den springande hunden" = the running dog). Perfekt particip (skriven/målad) is a *finished stamp* showing the result of a completed action, like "-ed" ("den skrivna boken" = the written book).
+
+## 📜 Background — verb forms that became adjectives, twice
+
+Both particip types are ancient **verbal adjectives**, inherited from Proto-Indo-European — a way of freezing a verb's meaning into an adjective shape so it can directly describe a noun. **Presens particip** (**-ande/-ende**) is cognate with English **-ing** (though English later merged two originally-separate old suffixes into that one spelling). **Perfekt particip** (**skriven**, cognate in shape and meaning with English **written**, or **given/gett**) directly parallels English's irregular "-en" past participles — both languages inherited the same Proto-Germanic participle-building machinery, then let sound changes reshape the endings differently over the centuries.
+
 ## Vad är particip?
 Particip är verbformer som fungerar som adjektiv eller adverb i en mening. De används för att beskriva substantiv eller för att bilda olika tempus och passivformer.
 
