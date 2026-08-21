@@ -16,3 +16,40 @@ gammal → **äldre** → **äldst** isn't a random exception — it's the exact
 - liten → **mindre** → **minst** — Han har **minst** pengar av alla. (He has the least money of everyone.)
 - Comparison word "än" (than): **större än**, **bättre än**, **snabbare än**
 
+## A few structural patterns
+
+The comparative is usually used in a phrase with **än** or in a comparison context:
+- det här huset är större än det där
+- hon är äldre än mig
+- filmen är intressantare än boken
+
+The superlative is often used with **den/det/de** or a noun phrase:
+- det största huset i staden
+- den snabbaste bilen i världen
+- det bästa hotellet här
+
+A useful pattern is:
+- hög → högre → högst
+- låg → lägre → lägst
+- kort → kortare → kortast
+- lång → längre → längst
+
+The form is very productive, but a handful of common adjectives are irregular and must be memorized:
+- bra → bättre → bäst
+- dålig → sämre → sämst
+- liten → mindre → minst
+- mycket → mer → mest
+- lite → mindre → minst
+
+## A quick drill
+
+Create 6 sentences:
+1. En bil är större än en cykel.
+2. Det här är den bästa filmen.
+3. Han bor i det minsta huset i området.
+4. Vädret är sämre idag än igår.
+5. Jag är äldre än min syster.
+6. Den här vägen är längre än den där.
+
+The key is to practice the comparison pattern with a real noun, not only the isolated adjective.
+

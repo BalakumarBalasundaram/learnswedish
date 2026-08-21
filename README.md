@@ -99,9 +99,10 @@ learnswedish/
 │   ├── 02_Verb/
 │   ├── 03_Ordföljd/
 │   ├── 04_Prepositioner/
-│   ├── 05_Satslära/
-│   ├── 06_Adjektiv/
-│   └── 07_Adverb/
+│   ├── 05_Adjektiv/
+│   ├── 06_Adverb/
+│   ├── 07_Predikat/
+│   └── 08_Satslära/
 ├── 03_Course_Materials/                   ◄ SFI / SVA level anchors
 │   ├── SFI/
 │   └── Svenska_För_Dig/
