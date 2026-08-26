@@ -1,5 +1,11 @@
 # Adjektiv: neutrum/plural
 
+> 🧠 **Mental model — the chameleon:** an adjective copies the noun's "outfit". Say the noun's ending out loud and the adjective mimics it: en-word → no ending (stor), ett-word → +t (stort), plural/definite → +a (stora). No noun ending change, no adjective change.
+
+## 📜 Background — a relic of Proto-Indo-European "agreement"
+
+Thousands of years ago, Proto-Indo-European adjectives had to **agree** with their noun in gender, number, and case — essentially copying the noun's grammatical "tags" onto themselves. Latin, Russian, and German still do this heavily today. English lost adjective agreement entirely ("big" never changes, no matter the noun). Swedish sits in between: it collapsed the old masculine/feminine split into one **common gender**, keeping only a 2-way en/ett (common/neuter) agreement plus a plural/definite form — a simplified survivor of a system that used to be far more complex.
+
 Det här kapitlet hjälper dig att / This chapter helps you:
 - sortera adjektiv i tydliga kategorier / group adjectives into clear categories (size, color, etc.)
 - använda rätt form: `stor`, `stort`, `stora` / use the correct form: `stor`, `stort`, `stora`
@@ -18,6 +24,51 @@ Fler exempel / More examples:
 - en gammal bok -> ett gammalt äpple -> gamla böcker/äpplen
 
 ## 2) Adjektiv-kategorier (med exempel)
+
+### 2.1) Vad är ett adjektiv?
+
+Ett adjektiv beskriver ett substantiv eller ett predikat. Det svarar på frågor som:
+- vilken/vilket/vilka?
+- hur?
+- vad är det för något?
+
+Exempel:
+- en liten bil
+- ett stort hus
+- en snabbt springande hund
+- bilen är stor
+- huset är nytt
+
+Det viktiga är att adjektivet inte “gör” något i meningen. Det beskriver istället något annat.
+
+### 2.2) Attributivt vs predikativt adjektiv
+
+Det finns två huvudpositioner:
+
+1. Attributivt adjektiv = före substantivet
+   - en stor bil
+   - ett varmt rum
+   - gamla böcker
+
+2. Predikativt adjektiv = efter ett kopulaverb som vara, bli, kännas, verkar, blir
+   - Bilen är stor.
+   - Rummet är varmt.
+   - Vädret känns kallt.
+   - Hon blir glad.
+
+I svenska fungerar ett predikativt adjektiv ofta som en del av predikatet, inte som ett självständigt substantiv. Det är därför det kan stå efter verbet utan att ”ta formen” av ett substantiv.
+
+### 2.3) Grundregeln för böjning
+
+Adjektivet böjs enligt substantivets form:
+- en-ord: grundform (stor)
+- ett-ord: +t (stort)
+- plural / bestämd form: +a (stora)
+
+Men mönstret ändras ibland, särskilt för korta adjektiv eller vissa oregelbundna former:
+- liten → litet → små
+- god → gott → goda
+- många korta adjektiv får också en liten formförändring i komparation, t.ex. stor → större → störst
 
 ### Storlek (size)
 - stor, liten, lång, kort, hög, låg, bred, smal
@@ -42,7 +93,6 @@ Fler exempel / More examples:
     - en vit hund, ett vitt moln, vita hundar
     - en brun väska, ett brunt bord, bruna väskor
 
-
 ### Form (shape)
 - rund, rak, fyrkantig, oval
 - Exempel / Example: en rund tallrik, ett runt bord, runda tallrikar
@@ -63,7 +113,28 @@ Fler exempel / More examples:
 - varm, kall, het, god, sur, söt
 - Exempel / Example: en varm soppa, ett varmt te, varma soppor
 
-## 3) Vanliga frågor om en/ett
+## 3) Adjektiv i hela satsen
+
+Adjektiv kan uppträda i olika delar av satsen:
+
+- attributiv position: den stora bilen
+- predikativ position: bilen är stor
+- apposition/utläggning: ett hus, stort och vitt
+
+Exempel:
+- Den gamla mannen väntar. (attributiv)
+- Mannen är gammal. (predikativ)
+- Huset var stort, nytt och ljust. (predikativ med flera adjektiv)
+
+Det är viktigt att skilja på:
+- adjektiv som beskriver substantiv: en blå jacka
+- adverb som beskriver verb: hon sprang snabbt
+
+Samma ord kan ibland vara adjektiv eller adverb beroende på funktion:
+- Hon är snabb. (adjektiv, beskriver hon)
+- Hon springer snabbt. (adverb, beskriver springer)
+
+## 4) Vanliga frågor om en/ett
 
 `En` eller `ett` beror på substantivet, inte på adjektivet.
 `En` or `ett` depends on the noun, not the adjective.
@@ -76,7 +147,7 @@ Snabb strategi / Quick strategy: lär alltid ord i par / always learn words in p
 - skriv: `en bil`, inte bara `bil`
 - skriv: `ett hus`, inte bara `hus`
 
-## 4) Hur lär man adjektiv snabbt?
+## 5) Hur lär man adjektiv snabbt?
 
 Använd denna 15-minutersrutin varje dag / Use this 15-minute routine every day:
 
@@ -100,7 +171,22 @@ Frågor / Questions:
 - Vilket rött hus är ditt?
 - Vilka röda bilar är nya?
 
-## 5) Mini-stub för egen träning
+## 6) Kort jämförelse: adjektiv vs adverb
+
+Det är lätt att blanda ihop dessa två grupper:
+
+- Adjektiv beskriver substantiv eller predikat: `en snabb bil`, `bilen är snabb`
+- Adverb beskriver verb, ibland hela satsen: `hon springer snabbt`, `hon kanske kommer`
+
+Jämför:
+- Han är glad. (adjektiv)
+- Han pratar glatt. (adverb, äldre/mer formell variant; ofta mer ovanlig i vardaglig svenska)
+- Hon är tyst. (adjektiv)
+- Hon talar tyst. (adverb)
+
+Så för att avgöra vilken kategori det är: fråga dig först vad ordet beskriver.
+
+## 7) Mini-stub för egen träning
 
 Kopiera och fyll i / Copy and fill in:
 
@@ -121,10 +207,19 @@ Frågor / Questions:
 4. Hur ______ är den?
 5. Hur ______ är de?
 
-## 6) Snabb checklista
+## 8) Snabb checklista
 
 - en-ord -> oftast grundform (`stor`) / en-words usually take base form (`stor`)
 - ett-ord -> ofta `-t` (`stort`) / ett-words often take `-t` (`stort`)
 - plural -> oftast `-a` (`stora`) / plural usually takes `-a` (`stora`)
 - lär alltid substantiv med artikel: `en/ett` / always learn nouns with article: `en/ett`
+- adjektiv kan stå före substantiv: `en liten bil`
+- adjektiv kan stå efter vara/blir/kännas: `bilen är liten`
+- adjektiv beskriver inte verbet; adverb gör det: `springer snabbt`
+
+## 9) Suggested follow-up
+
+- [02_jamforelser.md](02_jamforelser.md) — how the comparative and superlative are built
+- [../06_Adverb/01_adverb.md](../06_Adverb/01_adverb.md) — how adverbs differ from adjectives in function
+- [../07_Predikat/01_predikat.md](../07_Predikat/01_predikat.md) — how adjective predicates fit into the sentence as part of the predicate
 

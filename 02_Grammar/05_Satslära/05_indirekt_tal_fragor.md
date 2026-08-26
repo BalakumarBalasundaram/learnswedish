@@ -1,2 +1,0 @@
-# Indirekt tal (frågor)
-

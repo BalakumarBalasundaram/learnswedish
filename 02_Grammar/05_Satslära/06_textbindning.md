@@ -1,2 +1,0 @@
-# Textbindning: först, sedan, därför
-

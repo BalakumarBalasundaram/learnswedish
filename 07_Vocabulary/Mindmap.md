@@ -1,5 +1,7 @@
 # Vocabulary Mindmap
 
+> 🧠 **Mental model — five rooms in one day:** wake up at **Home**, head to **Education & Work**, get checked at the doctor or bank (**Health & Services**), travel between them (**Travel & Mobility**), and unwind with **Tech & Hobbies** in the evening. Same daily loop, five vocabulary rooms.
+
 ## Categories (overview)
 
 - Home & Daily Life (Home_and_Daily_Life)

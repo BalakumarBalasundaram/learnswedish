@@ -1,5 +1,7 @@
 ﻿﻿# Bluey hemma – familjesamtal
 
+> 🧠 **Mental model — read it like a TV script:** read each character's line aloud, then swap roles, then cover the Swedish column and reconstruct it from the English only. Role-play repetition beats memorizing an isolated word list.
+
 **Personer:** Pappa, Mamma, Bluey, Bingo
 
 **Pappa:** God morgon! Är ni redo för frukost?
