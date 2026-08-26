@@ -51,6 +51,7 @@ easiest ────────────────────────
 | 34 | B2 | Indirekt tal: påståenden | [08_Satslära/04_indirekt_tal_pastaenden.md](08_Satslära/04_indirekt_tal_pastaenden.md) |
 | 35 | B2 | Indirekt tal: frågor | [08_Satslära/05_indirekt_tal_fragor.md](08_Satslära/05_indirekt_tal_fragor.md) |
 | 36 | B2 | Textbindning: först, sedan, därför | [08_Satslära/06_textbindning.md](08_Satslära/06_textbindning.md) |
+| 37 | B2 | Satsbyggnad: grammatikmatris | [09_Satsbyggnad/README.md](09_Satsbyggnad/README.md) |
 
 > **Why the files weren't physically moved/renamed into level folders:** a full reorg (e.g. `A1_Basics/`, `A2_Elementary/`, `B1_Intermediate/`, `B2_Advanced/`) would mean cutting every one of the 7 existing category folders apart — pronouns would be split across 3 different level folders, verbs across 2, etc. That makes the topic view (Ordklasser/Verb/Ordföljd/Prepositioner/Satslära/Adjektiv/Adverb) — useful when you already know *what* you want to look up — disappear. This numbered path gives you the step-by-step order **without** losing the topic-based lookup structure. If you'd still prefer physical level-folders instead of this table, tell me and I'll do the renaming.
 
@@ -96,6 +97,12 @@ easiest ────────────────────────
 | 1 | Tid (i, på, om, för...sedan) | [01_tid.md](04_Prepositioner/01_tid.md) |
 | 2 | Plats (i, på, vid, hos) | [02_plats.md](04_Prepositioner/02_plats.md) |
 | 3 | Riktning (till, mot, från) | [03_riktning.md](04_Prepositioner/03_riktning.md) |
+| 4 | Orsak och syfte (av, för, på grund av) | [04_orsak_och_syfte.md](04_Prepositioner/04_orsak_och_syfte.md) |
+| 5 | Medel och sätt (med, utan, genom, via) | [05_medel_och_satt.md](04_Prepositioner/05_medel_och_satt.md) |
+| 6 | Relation och ämne (om, kring) | [06_relation_och_amne.md](04_Prepositioner/06_relation_och_amne.md) |
+| 7 | Jämförelse och omfattning (än, per, bland) | [07_jamforelse_och_omfattning.md](04_Prepositioner/07_jamforelse_och_omfattning.md) |
+| 8 | Relation och tillhörighet (hos, till, av) | [08_relation_och_tillhorighet.md](04_Prepositioner/08_relation_och_tillhorighet.md) |
+| 9 | Valmatris för prepositioner | [09_valj_preposition.md](04_Prepositioner/09_valj_preposition.md) |
 
 ## 05 Adjektiv (Adjectives)
 | # | Ämne | Fil |
