@@ -192,4 +192,3 @@ English: The flight to Stockholm departs at 10:00. The passengers check in lugga
 
 This is a good airport reference for speaking, reading, and travel situations.
 
-
